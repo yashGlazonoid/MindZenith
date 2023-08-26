@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "842406943964",
+    "firebase_url": "https://kolify-32c1d-default-rtdb.firebaseio.com",
+    "project_id": "kolify-32c1d",
+    "storage_bucket": "kolify-32c1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842406943964:android:839daf221babec40ad2819",
+        "android_client_info": {
+          "package_name": "com.devinfusion.mindzenith"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfi7WJ3uLpotd76ER9OM3gywoYt1oOLQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842406943964:android:23a4567875e93438ad2819",
+        "android_client_info": {
+          "package_name": "com.yash.kolify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfi7WJ3uLpotd76ER9OM3gywoYt1oOLQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
